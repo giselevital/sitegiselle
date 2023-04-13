@@ -1,9 +1,9 @@
 :root{
     --corfundo: rgb(255, 255, 255); /*Cor de fundo do site*/
     --cortexto: rgb(22, 22, 22); /*Cor padrão da fonte do site*/
-    --corprincipal: #e472af;
+    --corprincipal: #e4d972;
     --corsecundaria: #d32797;
-    --cordestaque: #dadd1abb;
+    --cordestaque: #ecee67bb;
 
     --larguramaxima: 900px; /*Largura máxima do site*/
     --larguraminima: 250px; /*Largura mínima do site*/
